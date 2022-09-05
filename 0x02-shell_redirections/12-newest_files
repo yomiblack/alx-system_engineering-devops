@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls -l |sort -nr -k 9|head | cut -c 42-
+ls -t |head

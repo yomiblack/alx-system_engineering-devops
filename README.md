@@ -1,4 +1,4 @@
 # alx-system_engineering-devops
-1. shell basics
-2. shell permissions
-3. shell redirections
+1. 0x00. Shell, basics
+2. 0x01. Shell, permissions
+3. 0x02. shell, I/O Redirections and filters
